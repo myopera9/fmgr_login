@@ -1,0 +1,8 @@
+streamlit
+Pillow
+st-copy
+cohere
+psycopg
+psycopg2
+pgvector
+google-genai
